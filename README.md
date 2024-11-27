@@ -17,4 +17,14 @@ __Etape :__
 - Téléchargement de SteamCMD
 - Installation de Gmod via Steam CMD
 - Création de script 
-- Configuration le serveur en cfg
+- Configuration le serveur en 
+
+<br>
+<br>
+<br>
+
+__A faire :__
+
+https://www.tecmint.com/install-wget-in-linux/
+
+https://terageek.org/tuto/tuto-serveur-gmod-dedie-sous-linux/
