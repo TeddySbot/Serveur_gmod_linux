@@ -1,8 +1,10 @@
 Groupe Teddy Le Moal
 
-Nombre de participants : 1
+___Nombre de participants :___ 1
 
-Mise en place d'un serveur linux pour un serveur de jeux Gmod.
+__Mise en place d'un serveur linux pour un serveur de jeux Gmod.__
+
+__Iso :__ DVD ISO Rocky Linux 9.5
 
 Etape :
 - Mise en place machine Rocky
