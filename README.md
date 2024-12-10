@@ -1,16 +1,14 @@
-Groupe Teddy Le Moal
+# Groupe Teddy Le Moal
 
 ___Nombre de participants :___ 1
 
 __Mise en place d'un serveur linux pour un serveur de jeux Gmod.__
 
-__Iso :__ DVD ISO Rocky Linux 9.5
-
-__Lien utile :__ (trouvé à la va vite sur le net)
-- [SteamCMD](https://www.ionos.fr/digitalguide/serveur/know-how/installer-steamcmd/#:~:text=T%C3%A9l%C3%A9chargez%20simplement%20le%20package%20d,d%C3%A9di%C3%A9s%20des%20jeux%20Steam%20populaires.)
+__Iso :__ ISO Rocky Linux 9.5
 
 
-__Etape :__
+
+__Etape Trouver avant le debut de procésus pour la création du projet :__
 - Mise en place machine Rocky
 - Installation outil nésséssaire 
 - Création de compte admin
@@ -19,12 +17,28 @@ __Etape :__
 - Création de script 
 - Configuration le serveur en 
 
+__Etape effectue Pour la création du serveur  :__
+- Création de la machine rocky.
+- Mise en place du SSH.
+- Mise en place des gestionnaires serveur.
+- Téléchargement des outil rocky.
+- Téléchargement d'un fichier bash pour facilité l'installation du serveur.
+- Installation du serveur.
+- Configuration du serveur dans les fichiers config.
+- Configuration des port de votre livexbox.
+
 <br>
 <br>
 <br>
 
-__A faire :__
+### Token :
 
-https://www.tecmint.com/install-wget-in-linux/
+https://steamcommunity.com/dev/managegameservers
+
+__Chemin de config :__
+  lgsm/config-default/config-lgsm/gmodserver/_default.cfg 
+
+
+### Lien utile :
 
 https://terageek.org/tuto/tuto-serveur-gmod-dedie-sous-linux/

@@ -9,16 +9,14 @@ sudo echo "DNS1=1.1.1.1" >> /etc/sysconfig/network-scripts/ifcfg-enp0s8
 sudo nmcli connection reload
 sudo nmcli connection up lan
 sudo firewall-cmd --add-masquerade --permanent
-sudo firewall-cmd --reload
 sudo firewall-cmd --permanent --remove-service dhcpv6-client
 sudo firewall-cmd --permanent --remove-service cockpit
-sudo firewall-cmd --reload
 sudo firewall-cmd --permanent --add-port=22/tcp
 sudo firewall-cmd --reload
 su usersteam
 sudo hostnamectl set-hostname ServerGmod
 sudo passwd usersteam
- -> Comment on fait pour mettre un mdp ? (123)
+ -> Comment on fait pour mettre un mdp en sh? (123)
 sudo systemctl restart sshd
 sudo dnf update 
 sudo dnf install wget
