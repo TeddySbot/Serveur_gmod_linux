@@ -26,7 +26,7 @@ chmod +x linuxgsm.sh
 su usersteam
 bash linuxgsm.sh gmodserver
 ./gmodserver install
-
+./gmodserver start
 
 
 

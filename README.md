@@ -15,7 +15,7 @@ __Etape Trouver avant le debut de procésus pour la création du projet :__
 - Téléchargement de SteamCMD
 - Installation de Gmod via Steam CMD
 - Création de script 
-- Configuration le serveur en 
+- Configuration le serveur en lua.
 
 __Etape effectue Pour la création du serveur  :__
 - Création de la machine rocky.
@@ -28,6 +28,9 @@ __Etape effectue Pour la création du serveur  :__
 - Configuration des port de votre livexbox.
 
 <br>
+
+__Etape effectuer command par command :__
+/Server/machine.sh
 
 __Chemin de config :__
   lgsm/config-default/config-lgsm/gmodserver/_default.cfg 
