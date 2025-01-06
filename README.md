@@ -28,17 +28,8 @@ __Etape effectue Pour la création du serveur  :__
 - Configuration des port de votre livexbox.
 
 <br>
-<br>
-<br>
-
-### Token :
-
-https://steamcommunity.com/dev/managegameservers
 
 __Chemin de config :__
   lgsm/config-default/config-lgsm/gmodserver/_default.cfg 
 
 
-### Lien utile :
-
-https://terageek.org/tuto/tuto-serveur-gmod-dedie-sous-linux/
